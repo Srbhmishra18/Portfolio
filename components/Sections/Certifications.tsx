@@ -2,7 +2,7 @@ import React from 'react';
 import { CERTIFICATIONS } from '../../constants';
 import { useLanguage } from '../../context/LanguageContext';
 import ScrollReveal from '../UI/ScrollReveal';
-import { Award, ExternalLink, Calendar, CheckCircle2, ShieldCheck } from 'lucide-react';
+import { Award, ExternalLink, Calendar, ShieldCheck } from 'lucide-react';
 
 const Certifications: React.FC = () => {
   const { t } = useLanguage();
