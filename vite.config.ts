@@ -8,7 +8,7 @@ export default defineConfig({
   // If your repo is https://github.com/username/my-portfolio
   // Then use base: '/my-portfolio/'
   // If it is a user site (username.github.io), use base: '/'
-  base: '/', 
+  base: '/Portfolio/', 
   build: {
     outDir: 'dist',
     assetsDir: 'assets',
