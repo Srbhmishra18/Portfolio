@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { ArrowRight, Download, Database, LineChart, Code2, Cpu, BarChart3, PieChart, Github, Linkedin, Mail } from 'lucide-react';
+import { Download, Database, Code2, Cpu, BarChart3, PieChart, Github, Linkedin, Mail } from 'lucide-react';
 import { useLanguage } from '../../context/LanguageContext';
 import ScrollReveal from '../UI/ScrollReveal';
 
