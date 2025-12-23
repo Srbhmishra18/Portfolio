@@ -16,7 +16,7 @@ const Hero: React.FC = () => {
     
     const timer = setInterval(() => {
       if (i < text.length) {
-        setTypedText((prev) => text.substring(0, i + 1));
+        setTypedText(() => text.substring(0, i + 1));
         i++;
       } else {
         clearInterval(timer);
