@@ -6,7 +6,7 @@ import { ExternalLink, Github, ArrowUpRight } from 'lucide-react';
 
 const Projects: React.FC = () => {
   const { t, language } = useLanguage();
-  const [hoveredId, setHoveredId] = useState<string | null>(null);
+  const [, setHoveredId] = useState<string | null>(null);
 
   return (
     <section id="projects" className="py-24 bg-gray-50/50 dark:bg-slate-900/20">
