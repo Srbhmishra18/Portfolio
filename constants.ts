@@ -199,6 +199,14 @@ export const EDUCATION: EducationItem[] = [
 ];
 
 export const CERTIFICATIONS: CertificationItem[] = [
+    {
+    id: '0',
+    title: 'Power BI Data Analyst Associate (PL-300)',
+    issuer: 'Microsoft',
+    date: 'Dec 30, 2025',
+    tags: ['Power BI', 'DAX', 'Power query', 'Business analysis'],
+    link: 'https://learn.microsoft.com/api/credentials/share/en-us/SaurabhMishra-8033/FA107C259FEB1EF5?sharingId',
+  },
   {
     id: '1',
     title: 'Python 3 Programming Specialization',
