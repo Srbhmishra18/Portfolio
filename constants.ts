@@ -200,7 +200,7 @@ export const EDUCATION: EducationItem[] = [
 
 export const CERTIFICATIONS: CertificationItem[] = [
     {
-    id: '0',
+    id: '1',
     title: 'Power BI Data Analyst Associate (PL-300)',
     issuer: 'Microsoft',
     date: 'Dec 30, 2025',
@@ -208,7 +208,7 @@ export const CERTIFICATIONS: CertificationItem[] = [
     link: 'https://learn.microsoft.com/api/credentials/share/en-us/SaurabhMishra-8033/FA107C259FEB1EF5?sharingId',
   },
   {
-    id: '1',
+    id: '2',
     title: 'Python 3 Programming Specialization',
     issuer: 'University of Michigan (Coursera)',
     date: 'Sep 3, 2020',
@@ -216,7 +216,7 @@ export const CERTIFICATIONS: CertificationItem[] = [
     link: 'https://coursera.org/verify/specialization/Z65ZT5JAZXWA',
   },
   {
-    id: '2',
+    id: '3',
     title: 'RBEI - NIPUN: Machine Learning Certified',
     issuer: 'Bosch (Simplilearn)',
     date: 'May 18, 2021',
@@ -224,7 +224,7 @@ export const CERTIFICATIONS: CertificationItem[] = [
     link: 'https://success.simplilearn.com/07dd1cc8-3d5a-49fe-a75d-6b34fb75569c',
   },
   {
-    id: '3',
+    id: '4',
     title: 'Power BI Virtual Case Experience',
     issuer: 'PwC (Forage)',
     date: 'July 16, 2023',
@@ -232,7 +232,7 @@ export const CERTIFICATIONS: CertificationItem[] = [
     link: 'https://drive.google.com/file/d/1cR7MIV0ar_MLfaDcKCMxcq4mr_elVrTM/view?usp=sharing',
   },
   {
-    id: '4',
+    id: '5',
     title: 'Generative AI: Elevate your Data Engineering Career',
     issuer: 'IBM (Coursera)',
     date: 'Aug 14, 2024',
@@ -240,7 +240,7 @@ export const CERTIFICATIONS: CertificationItem[] = [
     link: 'https://coursera.org/verify/X00NNQGP99JH',
   },
   {
-    id: '5',
+    id: '6',
     title: 'Social Network Analysis',
     issuer: 'UC Davis (Coursera)',
     date: 'Sep 2, 2024',
