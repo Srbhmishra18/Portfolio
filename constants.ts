@@ -12,7 +12,7 @@ export const TRANSLATIONS: Record<'en' | 'de', Translation> = {
       contact: 'Contact',
     },
     hero: {
-      greeting: "Hallo, I'm",
+      greeting: "Hello, I'm",
       role: 'Saurabh Mishra',
       description: 'Data Analyst | Power BI Wizard | Python Enthusiast',
       quote: "Just like chess♟️, every data challenge is a new game Strategy, patience, and sharp moves win!🏆",
