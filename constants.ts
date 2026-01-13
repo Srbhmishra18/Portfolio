@@ -264,15 +264,15 @@ export const PROJECTS: Project[] = [
   },
   {
     id: '2',
-    title: 'ETL Automation Framework',
+    title: 'Advanced SQL Business Analytics',
     description: {
-      en: 'Automated ETL processes for data extraction and cleaning using Power Query, cutting processing time by 40% and eliminating manual errors.',
-      de: 'Automatisierung von ETL-Prozessen zur Datenextraktion und -bereinigung mit Power Query, wodurch die Verarbeitungszeit um 40% reduziert wurde.',
+      en: 'In-depth business intelligence using advanced PostgreSQL. Features complex data modeling, customer segmentation, and performance trend analysis to drive strategic decision-making.',
+      de: 'Tiefgehende Business Intelligence unter Verwendung von fortgeschrittenem PostgreSQL. Beinhaltet komplexe Datenmodellierung, Kundensegmentierung und Leistungstrendanalysen.',
     },
-    tech: ['Power Query', 'SharePoint', 'Excel', 'VBA'],
-    link: '#',
-    github: '#',
-    image: 'https://images.unsplash.com/photo-1518186285589-2f7649de83e0?q=80&w=800&auto=format&fit=crop',
+    tech: ['PostgreSQL', 'Advanced SQL', 'Business Analytics', 'Data Modeling'],
+    link: 'https://github.com/Srbhmishra18/Advanced-SQL-Business-Analytics-PostgreSQL',
+    github: 'https://github.com/Srbhmishra18/Advanced-SQL-Business-Analytics-PostgreSQL',
+    image: 'https://images.unsplash.com/photo-1544383835-bda2bc66a55d?q=80&w=800&auto=format&fit=crop',
   },
   {
     id: '3',
