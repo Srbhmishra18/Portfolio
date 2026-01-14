@@ -47,10 +47,10 @@ const Projects: React.FC = () => {
                   
                   {/* Floating Action Buttons */}
                   <div className="absolute top-4 right-4 z-20 flex gap-3 translate-y-[-150%] group-hover:translate-y-0 transition-transform duration-300">
-                      <a href={project.github} className="p-3 rounded-full bg-white/90 text-slate-900 hover:bg-white hover:scale-110 transition-all shadow-lg" title={t.projects.viewCode}>
+                      <a href={project.github} target="_blank" rel="noopener noreferrer" className="p-3 rounded-full bg-white/90 text-slate-900 hover:bg-white hover:scale-110 transition-all shadow-lg" title={t.projects.viewCode}>
                           <Github size={20} />
                       </a>
-                      <a href={project.link} className="p-3 rounded-full bg-primary text-white hover:bg-blue-600 hover:scale-110 transition-all shadow-lg" title={t.projects.liveDemo}>
+                      <a href={project.link} target="_blank" rel="noopener noreferrer" className="p-3 rounded-full bg-primary text-white hover:bg-blue-600 hover:scale-110 transition-all shadow-lg" title={t.projects.liveDemo}>
                           <ExternalLink size={20} />
                       </a>
                   </div>
