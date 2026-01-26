@@ -68,11 +68,11 @@ const About: React.FC = () => {
                   <div className="text-xs text-gray-500 uppercase tracking-wider">{t.about.stats.experience}</div>
                 </div>
                 <div className="p-4 rounded-xl bg-white dark:bg-slate-800 shadow-sm border border-gray-100 dark:border-gray-700 text-center hover:scale-110 transition-transform duration-300 cursor-default">
-                  <div className="text-3xl font-bold text-secondary mb-1">125+</div>
+                  <div className="text-3xl font-bold text-secondary mb-1">PL-300</div>
                   <div className="text-xs text-gray-500 uppercase tracking-wider">{t.about.stats.clients}</div>
                 </div>
                 <div className="p-4 rounded-xl bg-white dark:bg-slate-800 shadow-sm border border-gray-100 dark:border-gray-700 text-center hover:scale-110 transition-transform duration-300 cursor-default">
-                  <div className="text-3xl font-bold text-purple-500 mb-1">20+</div>
+                  <div className="text-3xl font-bold text-purple-500 mb-1">3+</div>
                   <div className="text-xs text-gray-500 uppercase tracking-wider">{t.about.stats.projects}</div>
                 </div>
               </div>
