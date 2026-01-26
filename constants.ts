@@ -24,8 +24,8 @@ export const TRANSLATIONS: Record<'en' | 'de', Translation> = {
       content: "I sit right at the intersection of technical engineering and business strategy. With over <b>4 years</b> of experience ranging from SAP development to modern Data Analytics, I’ve spent my career building automation frameworks that save time and dashboards that save headaches.<br><br> But I’m not just about the numbers. I treat data analysis a lot like my favourite hobbies: Chess and Sudoku. It’s all about finding patterns, thinking three steps ahead, and solving the puzzle. When I’m not debugging code or analyzing KPIs, you’ll likely find me deep into a good book or curating the perfect playlist to keep the creative momentum going.",
       stats: {
         experience: 'Years Experience',
-        clients: 'Global Locations',
-        projects: 'Projects Delivered',
+        clients: 'Certified',
+        projects: 'Dashboards',
       },
     },
     experience: {
@@ -84,8 +84,8 @@ export const TRANSLATIONS: Record<'en' | 'de', Translation> = {
       content: "Ich bewege mich genau an der Schnittstelle zwischen technischem Engineering und Geschäftsstrategie. Mit über <b>4 Jahren</b> Erfahrung, von der SAP-Entwicklung bis hin zu moderner Datenanalyse, habe ich meine Karriere damit verbracht, Automatisierungs-Frameworks zu entwickeln, die Zeit sparen, und Dashboards, die Kopfschmerzen ersparen.<br><br>Aber bei mir dreht sich nicht alles nur um Zahlen. Ich betrachte Datenanalyse ähnlich wie meine Lieblingshobbys: Schach und Sudoku. Es geht darum, Muster zu erkennen, drei Schritte vorauszudenken und das Rätsel zu lösen. Wenn ich nicht gerade Code debugge oder KPIs analysiere, finden Sie mich wahrscheinlich vertieft in ein gutes Buch oder beim Zusammenstellen der perfekten Playlist, um den kreativen Schwung beizubehalten.",
       stats: {
         experience: 'Jahre Erfahrung',
-        clients: 'Standorte',
-        projects: 'Projekte',
+        clients: 'Zertifiziert',
+        projects: 'Dashboards',
       },
     },
     experience: {
